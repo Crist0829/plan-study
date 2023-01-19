@@ -1,0 +1,77 @@
+{
+  "Materias": [
+
+    {
+      "Matemáticas": [
+        "Algebra Elemental",
+        "Cálculo diferencial",
+        "Cálculo integral",
+        "Análisis matemático",
+        "Geometría y Trigonometría",
+        "Probabilidad y estadística",
+        "Matemáticas Discretas"
+      ]
+    },
+
+    {
+      "Programación e Informática": [
+        "Arquitectura de computadoras",
+        "Programación y Algoritmos",
+        "Estructuras de datos",
+        "Patrones de diseño y metodologías",
+        "Redes informáticas",
+        "Seguridad informática",
+        "Linux"
+      ]
+    },
+
+    {
+      "Desarrollo_software": [
+        {
+          "WEB": [
+            "Modelo cliente servidor",
+            "Protocolo HTTP",
+            {
+              "Front End": [
+                "HTML, CSS, JAVASCRIPT",
+                "TailwindCss",
+                "React",
+                { "Herramientas": ["Vite", "Webpack", "Babel"] },
+                "Diseño UI y UX"
+              ]
+            },
+
+            {
+              "Back End": [
+                { "PHP": ["Laravel, Jetstream, Inertia"] },
+                { "Javascript": ["Nodejs, Express, Strapi, JWT"] },
+                { "Herramientas": ["Docker", "Kubernettes", "Aws"] }
+              ]
+            }
+            
+          ]
+        },
+        {
+          "App": ["Flutter", "Dart"]
+        },
+        {
+          "Lenguajes": ["C", "C++", "GO", "Rust", "Python"]
+        },
+        {
+          "Bases de datos": ["MySQL", "MongoDB", "Redis", "IndexDB"]
+        },
+        {
+          "Complementos": ["GIT", "Github", "Testing", "Metodologías"]
+        }
+      ]
+    },
+
+    {
+      "Humanidades y Comunicación": [
+        { "Español": ["Gramática", "Ortografía", "Literatura"] },
+        { "Inglés": ["Gramática", "Ortografía"] },
+        { "C.Sociales": ["Conceptos", "Historia"] }
+      ]
+    }
+  ]
+}
